@@ -1,0 +1,2 @@
+# Receita-style
+Receita
