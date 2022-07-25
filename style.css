@@ -1,0 +1,200 @@
+* {
+   background-color:white;
+   font-family: 'Montserrat', sans-serif;
+   width: 883px
+}
+
+.title{
+    /* Layout Properties */
+top: 420px;
+left: 21px;
+width: 884px;
+height: 187px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 89px/79px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+.paragrafo{
+   /* Layout Properties */
+top: 617px;
+left: 21px;
+width: 884px;
+height: 28px;
+/* UI Properties */
+text-align: right;
+font: normal normal bold 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1; 
+}
+
+.descricao{
+top: 679px;
+left: 21px;
+width: 883px;
+height: 197px;
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.linea1{
+    /* Layout Properties */
+top: 931px;
+left: 22px;
+width: 883px;
+height: 0px;
+/* UI Properties */
+border: 5px solid #999999;
+opacity: 1;
+}
+
+
+.linea2{
+/* Layout Properties */
+top: 1083px;
+left: 22px;
+width: 883px;
+height: 0px;
+/* UI Properties */
+border: 5px solid #999999;
+opacity: 1;
+}
+
+.title2{
+top: 1117px;
+left: 21px;
+width: 235px;
+height: 42px;
+text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+.list1{
+/* Layout Properties */
+top: 1179px;
+left: 96px;
+width: 753px;
+height: 366px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.title3{
+/* Layout Properties */
+top: 1599px;
+left: 21px;
+width: 315px;
+height: 42px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+.process{
+/* Layout Properties */
+top: 1675px;
+left: 61px;
+width: 844px;
+height: 380px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.title4{
+/* Layout Properties */
+top: 2123px;
+left: 21px;
+width: 311px;
+height: 42px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+.video{
+/* Layout Properties */
+top: 2200px;
+left: 22px;
+width: 883px;
+height: 497px;
+ 
+}
+
+.voltar{
+    /* Layout Properties */
+top: 2730px;
+left: 22px;
+width: 263px;
+height: 25px;
+/* UI Properties */
+text-align: left;
+text-decoration: underline;
+font: normal normal 900 21px/25px Montserrat;
+letter-spacing: 0px;
+color: #0037B3;
+text-transform: uppercase;
+opacity: 1;
+}
+
+.preparo{
+    /* Layout Properties */
+top: 965px;
+left: 21px;
+width: 258px;
+height: 25px;
+/* UI Properties */
+text-align: left;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.rendimento{
+    top: 1024px;
+left: 21px;
+width: 302px;
+height: 25px;
+text-align: left;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.span{
+    /* Layout Properties */
+top: 0px;
+left: 0px;
+width: 166px;
+height: 25px;
+/* UI Properties */
+text-align: left;
+font: normal normal 900 21px/25px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+}
